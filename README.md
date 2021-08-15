@@ -7,9 +7,7 @@
 - Languages : **JavaScript**
 - Front-End Development: **HTML5** | **CSS3** | **JS** | **Bootstrap**
 - Framework & Library : **React**
-- Back-End Development: **Node.js**
-
-Looking for opportunity as web developer role. 
+- Back-End Development: **Node.js** 
 
 📍 Here's my link to [Portfolio](https://aditya-doshi.netlify.app/)
 
