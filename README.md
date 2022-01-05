@@ -5,9 +5,9 @@
 
 📍 My technical skills include : 
 - Languages : **JavaScript**
+- Framework & Library : **React** | **Chakra-UI**
 - Front-End Development: **HTML5** | **CSS3** | **JS** | **Bootstrap**
-- Framework & Library : **React**
-- Back-End Development: **Node.js** 
+- Back-End Development: **Node.js** | **Express.js** | **MongoDB**
 
 <!-- 📍 Here's my link to [Portfolio](https://aditya-doshi.netlify.app/) -->
 
