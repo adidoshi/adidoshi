@@ -1,7 +1,7 @@
 # Hello there!👋
-📍 I'm **Aditya Doshi**, currently upskilling in Full Stack MERN Web Development & having hands-on creating real-world projects.
+📍 I'm **Aditya Doshi**, Full Stack MERN Web Developer, here is my journey of creating real-time world projects.
 
-📍 Exploring new technologies gradually with enthusiasm. I like the process of learnings, implementation, debugging while programming which will for sure be a key to reach my end goal.
+📍 Exploring new technologies gradually with enthusiasm. I like the process of learnings, implementation, debugging while programming which will help me to grow.
 
 📍 My technical skills include : 
 - Languages : **JavaScript**
@@ -9,7 +9,7 @@
 - Framework & Library : **React**
 - Back-End Development: **Node.js** 
 
-📍 Here's my link to [Portfolio](https://aditya-doshi.netlify.app/)
+<!-- 📍 Here's my link to [Portfolio](https://aditya-doshi.netlify.app/) -->
 
 📍 Connect with me :
 
