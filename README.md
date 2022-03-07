@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning & working on **ReactJs**
 
 - 👨‍💻 All of my projects are available at 
-<!-- [https://adityadoshi.netlify.app](https://adityadoshi.netlify.app) -->
+[My Portfolio](https://adityadoshi.netlify.app)
 - Creating real time projects excites me a lot, exploring new technologies gradually with enthusiasm, I like the process of learnings, implementation, debugging while programming which help me to grow day by day.
 - I'm looking for an full time react developer opportunity.
 
