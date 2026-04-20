@@ -1,49 +1,139 @@
-<h1 align="center">Hello 👋, I'm Aditya Doshi</h1>
-<h3 align="center">📍 A Full Stack MERN Web Developer</h3>
+<!-- HEADER -->
+<h1 align="center">Welcome to the playground | 👋 I’m Aditya</h1>
+<h3 align="center">Software Engineer | Frontend Developer</h3>
 
-- 🌱 I’m currently learning & working on **ReactJs**
-
-- 👨‍💻 All of my projects are available at 
-[My Portfolio](https://adityadoshi.netlify.app)
-- Creating real time projects excites me a lot, exploring new technologies gradually with enthusiasm, I like the process of learnings, implementation, debugging while programming which help me to grow day by day.
-- I'm looking for an full time react developer opportunity.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/adidoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adidoshi" height="30" width="40" /></a>
-<a href="https://twitter.com/adidoshi08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adidoshi08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-doshi08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-doshi08" height="30" width="40" /></a>
-<a href="https://hashnode.com/@adidoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adidoshi" height="30" width="40" /></a>
+<p align="center">
+  I build high-performance web apps, scalable systems with AI as leverage.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/adidoshi08" target="blank"><img src="https://img.shields.io/twitter/follow/adidoshi08?logo=twitter&style=for-the-badge" alt="adidoshi08" /></a> </p>
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20React%20%7C%20TS-beige" />
+  <img src="https://img.shields.io/badge/Interest-SaaS%20%7C%20LLM Integration%20%7C%20Fintech-green" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-orange" />
+</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adidoshi&show_icons=true&locale=en" alt="adidoshi" /></p>
+## 🚀 Journey & what I bring
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adidoshi&" alt="adidoshi" /></p>
+- 💼 Experienced professional worked across **startups, contributing** to production apps.
+- 🤝 I’m open to collaborating on **open source** projects in frontend.
+- 💻 Most of my **commits** live in the **JavaScript & React** world.
+- ⚡ Open to **full-time roles** across global teams.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adidoshi&show_icons=true&locale=en&layout=compact" alt="adidoshi" /></p>
+---
 
+## 🤝 Let's Connect
 
-<!---
-adidoshi/adidoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:adityadoshi25@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+    <a href="https://x.com/adidoshi08">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+## 🛠️ Tech Stack
+
+### </> Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,next,redux,react-router" />
+</p>
+
+### 🛠️ Testing
+
+<p>
+ <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+- React testing library
+- Playwright
+
+### ⚙️ Backend frameworks & tools I'm familiar with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgres" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman" />
+</p>
+
+### 🤖 AI & Emerging Tech
+
+  <img height="40" width="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adidoshi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adidoshi&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adidoshi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 SaaS AI powered voice conversation with book
+
+- Let's user upload a PDF book & speak with an AI voice assistant
+- Effective interaction as it answers using the actual contents of the book
+- Focus: **LLM orchestration integration**
+
+---
+
+### 🔹 Chrome Extension (Productivity Tool)
+
+- Save & organize highlighted content on any webpage.
+- Generate concise summary of the saved text.
+- Focus: **Extension storage & OPENai key**
+
+---
+
+### 🔹 Financial markets analytics dashboard
+
+- User can upload their detailed data
+- Building interactive data visualizations with dynamic, real-time insights
+- Focus: **Full stack & API integration**
+
+---
+
+## 🧠 Current Focus & Learning
+
+- System Design & scalable architecture.
+- Advanced frontend performance.
+- Adopting AI to accelerate development and improve efficiency.
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  ⭐️ From <b>Aditya Doshi</b>
+</p>
