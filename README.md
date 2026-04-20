@@ -101,7 +101,7 @@
 
 ## 🧩 Featured Projects
 
-### 🔹 SaaS AI powered voice conversation with book
+### 🔹 SaaS AI powered voice conversation with book - <a href="https://github.com/adidoshi/chatlybook">Chatlybook</a>
 
 - Let's user upload a PDF book & speak with an AI voice assistant
 - Effective interaction as it answers using the actual contents of the book
@@ -109,7 +109,7 @@
 
 ---
 
-### 🔹 Chrome Extension (Productivity Tool)
+### 🔹 Chrome Extension (Productivity Tool) - <a href="https://github.com/adidoshi/website-highlight-saver-ext">Conservo</a>
 
 - Save & organize highlighted content on any webpage.
 - Generate concise summary of the saved text.
@@ -117,7 +117,7 @@
 
 ---
 
-### 🔹 Financial markets analytics dashboard
+### 🔹 Financial markets analytics dashboard - <a href="https://github.com/adidoshi/edgerift-metrics">Edgerift Metrics</a>
 
 - User can upload their detailed data
 - Building interactive data visualizations with dynamic, real-time insights
