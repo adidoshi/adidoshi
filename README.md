@@ -30,13 +30,13 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/aditya-doshi08" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:adityadoshi25@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-    <a href="https://x.com/adidoshi08">
+    <a href="https://x.com/adidoshi08" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
@@ -101,7 +101,7 @@
 
 ## 🧩 Featured Projects
 
-### 🔹 SaaS AI powered voice conversation with book - <a href="https://github.com/adidoshi/chatlybook">Chatlybook</a>
+### 🔹 SaaS AI powered voice conversation with book - <a href="https://github.com/adidoshi/chatlybook" target="_blank">Chatlybook</a>
 
 - Let's user upload a PDF book & speak with an AI voice assistant
 - Effective interaction as it answers using the actual contents of the book
@@ -109,7 +109,7 @@
 
 ---
 
-### 🔹 Chrome Extension (Productivity Tool) - <a href="https://github.com/adidoshi/website-highlight-saver-ext">Conservo</a>
+### 🔹 Chrome Extension (Productivity Tool) - <a href="https://github.com/adidoshi/website-highlight-saver-ext" target="_blank">Conservo</a>
 
 - Save & organize highlighted content on any webpage.
 - Generate concise summary of the saved text.
@@ -117,7 +117,7 @@
 
 ---
 
-### 🔹 Financial markets analytics dashboard - <a href="https://github.com/adidoshi/edgerift-metrics">Edgerift Metrics</a>
+### 🔹 Financial markets analytics dashboard - <a href="https://github.com/adidoshi/edgerift-metrics" target="_blank">Edgerift Metrics</a>
 
 - User can upload their detailed data
 - Building interactive data visualizations with dynamic, real-time insights
